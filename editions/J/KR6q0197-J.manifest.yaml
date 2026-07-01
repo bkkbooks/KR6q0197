@@ -1,0 +1,428 @@
+canonical_identifier: bkk:krp/KR6q0197/J/v1
+canonical_location: https://kanripo.org/bkk/KR6q0197/J/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 浮山法句
+  identifiers:
+    krp: KR6q0197
+    cbeta: J25nB166
+    cbeta_old_id: J25nB166
+    authorityid: CA0004950
+    json_key: JB166
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/J/J25/J25nB166.xml
+    old_id: J25nB166
+  edition:
+    short: J
+assets:
+  parts:
+  - {seq: 0, filename: KR6q0197_000-J.yaml, hash: 'sha256:7df56e7fb0df7bbe9e51bb61b29b92407145746fffa87ce14cdc619eba2494f9'}
+  - {seq: 7, filename: KR6q0197_007-J.yaml, hash: 'sha256:deabc083cc860e387ba4be975e46b09e929f9bca5070ce5a67bd0260517d5f74'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6q0197_000-J.markers.yaml, hash: 'sha256:63d0055b779e44b5b1827bfc9c2beca55460f5277c84972606520da262307a1f'}
+  - {seq: 7, role: markers, filename: assets/KR6q0197_007-J.markers.yaml, hash: 'sha256:908111678d658b63f3c1b2e9fd366e77af7a56ec5586ab95a54c709348d4cf91'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6q0197_J_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 浮渡山大華嚴寺中興尊宿朗目禪師塔銘併序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0197_J_000-mulu-2
+    span:
+    - front
+    - 2674
+    - 2674
+  label: 夢禪語
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0197_J_007-juan-start
+    span:
+    - body
+    - 0
+    - 3433
+  label: 曹溪一滴卷之七朗目和尚浮山法句
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0197_J_007-mulu-1
+    span:
+    - body
+    - 15
+    - 15
+  label: 浮山九帶序
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0197_J_007-mulu-2
+    span:
+    - body
+    - 254
+    - 254
+  label: 柬劉晉川司空
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0197_J_007-mulu-3
+    span:
+    - body
+    - 680
+    - 680
+  label: 柬黃慎軒太史
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0197_J_007-mulu-4
+    span:
+    - body
+    - 784
+    - 784
+  label: 答蘊璞法師
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0197_J_007-mulu-5
+    span:
+    - body
+    - 1177
+    - 1177
+  label: 開心法語
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0197_J_007-mulu-6
+    span:
+    - body
+    - 2051
+    - 2051
+  label: 七言古
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0197_J_007-mulu-7
+    span:
+    - body
+    - 2054
+    - 2054
+  label: 贈覺凡關主
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0197_J_007-mulu-8
+    span:
+    - body
+    - 2283
+    - 2283
+  label: 五言律
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0197_J_007-mulu-9
+    span:
+    - body
+    - 2286
+    - 2286
+  label: 秋日坐白雲巖方丈為吳篤之明之兩居士譚楞嚴實相每禪餘經行峰頂趺坐巖龕吟風嘯月偶成偈語遂筆以贈之凡八首
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0197_J_007-mulu-10
+    span:
+    - body
+    - 2335
+    - 2335
+  label: 其一
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0197_J_007-mulu-11
+    span:
+    - body
+    - 2375
+    - 2375
+  label: 其二
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0197_J_007-mulu-12
+    span:
+    - body
+    - 2417
+    - 2417
+  label: 其三
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0197_J_007-mulu-13
+    span:
+    - body
+    - 2459
+    - 2459
+  label: 其四
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0197_J_007-mulu-14
+    span:
+    - body
+    - 2501
+    - 2501
+  label: 其五
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0197_J_007-mulu-15
+    span:
+    - body
+    - 2543
+    - 2543
+  label: 其六
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0197_J_007-mulu-16
+    span:
+    - body
+    - 2585
+    - 2585
+  label: 其七
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0197_J_007-mulu-17
+    span:
+    - body
+    - 2627
+    - 2627
+  label: 其八
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0197_J_007-mulu-18
+    span:
+    - body
+    - 2669
+    - 2669
+  label: 坐木蓮閣
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0197_J_007-mulu-19
+    span:
+    - body
+    - 2713
+    - 2713
+  label: 送僧歸雞足
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0197_J_007-mulu-20
+    span:
+    - body
+    - 2758
+    - 2758
+  label: 七言律
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0197_J_007-mulu-21
+    span:
+    - body
+    - 2761
+    - 2761
+  label: 登雙峰
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0197_J_007-mulu-22
+    span:
+    - body
+    - 2820
+    - 2820
+  label: 鏡心講堂贈瑞光座主
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0197_J_007-mulu-23
+    span:
+    - body
+    - 2885
+    - 2885
+  label: 浮山解制
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0197_J_007-mulu-24
+    span:
+    - body
+    - 2945
+    - 2945
+  label: 呈焦弱侯太史
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0197_J_007-mulu-25
+    span:
+    - body
+    - 3007
+    - 3007
+  label: 答三龍居士
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0197_J_007-mulu-26
+    span:
+    - body
+    - 3068
+    - 3068
+  label: 其一
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0197_J_007-mulu-27
+    span:
+    - body
+    - 3126
+    - 3126
+  label: 其二
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0197_J_007-mulu-28
+    span:
+    - body
+    - 3184
+    - 3184
+  label: 七言絕
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0197_J_007-mulu-29
+    span:
+    - body
+    - 3187
+    - 3187
+  label: 春望
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0197_J_007-mulu-30
+    span:
+    - body
+    - 3217
+    - 3217
+  label: 感懷二首
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0197_J_007-mulu-31
+    span:
+    - body
+    - 3221
+    - 3221
+  label: 其一
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0197_J_007-mulu-32
+    span:
+    - body
+    - 3249
+    - 3249
+  label: 其二
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0197_J_007-mulu-33
+    span:
+    - body
+    - 3279
+    - 3279
+  label: 雪後
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0197_J_007-mulu-34
+    span:
+    - body
+    - 3309
+    - 3309
+  label: 夜坐
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0197_J_007-mulu-35
+    span:
+    - body
+    - 3339
+    - 3339
+  label: 齊物
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0197_J_007-mulu-36
+    span:
+    - body
+    - 3369
+    - 3369
+  label: 送僧歸南泉山
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0197_J_007-mulu-37
+    span:
+    - body
+    - 3403
+    - 3403
+  label: 幽棲
+  type: mulu
+  level: 1
+hash: sha256:ab0ea8b26a3ba2969a1fda716200e6cdecb41df4b5b86aa9daccc62c1e63447f
