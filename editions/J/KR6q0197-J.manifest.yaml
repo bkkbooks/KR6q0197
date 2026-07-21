@@ -19,17 +19,17 @@ metadata:
     short: J
 assets:
   parts:
-  - {seq: 0, filename: KR6q0197_000-J.yaml, hash: 'sha256:7df56e7fb0df7bbe9e51bb61b29b92407145746fffa87ce14cdc619eba2494f9'}
+  - {seq: 0, filename: KR6q0197_000-J.yaml, hash: 'sha256:6b183595cd5a219feeb783d02e3db2ff00102c7fb8a6f6a832a81b30a5b8cd88'}
   - {seq: 7, filename: KR6q0197_007-J.yaml, hash: 'sha256:deabc083cc860e387ba4be975e46b09e929f9bca5070ce5a67bd0260517d5f74'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0197_000-J.markers.yaml, hash: 'sha256:63d0055b779e44b5b1827bfc9c2beca55460f5277c84972606520da262307a1f'}
+  - {seq: 0, role: markers, filename: assets/KR6q0197_000-J.markers.yaml, hash: 'sha256:79d9e9af5ba6550290075cbc9fd7c045289ab391017d24d6bd5a322ad485c6c5'}
   - {seq: 7, role: markers, filename: assets/KR6q0197_007-J.markers.yaml, hash: 'sha256:908111678d658b63f3c1b2e9fd366e77af7a56ec5586ab95a54c709348d4cf91'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6q0197_J_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 浮渡山大華嚴寺中興尊宿朗目禪師塔銘併序
@@ -39,7 +39,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0197_J_000-mulu-2
     span:
-    - front
+    - body
     - 2674
     - 2674
   label: 夢禪語
@@ -425,4 +425,4 @@ table_of_contents:
   label: 幽棲
   type: mulu
   level: 1
-hash: sha256:ab0ea8b26a3ba2969a1fda716200e6cdecb41df4b5b86aa9daccc62c1e63447f
+hash: sha256:8e4c8ed773f70d4731c3cd99b67dc67d1ba9a5263831c6b492fc14ab1f639bf7
